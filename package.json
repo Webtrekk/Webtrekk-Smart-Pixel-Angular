@@ -1,6 +1,6 @@
 {
   "name": "webtrekk-smart-pixel-angular",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A Angular implementation of the Webtrekk Smart Pixel.",
   "main": "./index.ts",
   "typings": "./doc/namespace.js",
@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/Webtrekk/Webtrekk-Smart-Pixel-Angular#readme",
   "dependencies": {
-    "webtrekk-smart-pixel": ">=1.0.5 <2.0.0"
+    "webtrekk-smart-pixel": "^1.0.6"
   },
   "directories": {
     "lib": "lib"
